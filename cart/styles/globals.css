@@ -1,0 +1,23 @@
+:root { 
+  font-size: 1.5rem;
+}
+
+body { 
+  display: grid;
+  place-items: center;
+}
+
+#shop { 
+  display: grid;
+  grid-template-columns: 1fr 0fr;
+  column-gap: 2rem;
+  & li {
+    display: contents;
+  }
+}
+
+h1 {
+  text-align: center;
+}
+
+

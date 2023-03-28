@@ -1,0 +1,27 @@
+{
+  "name": "cart",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "jest --watch"
+  },
+  "dependencies": {
+    "@testing-library/dom": "^9.0.1",
+    "@testing-library/react": "^14.0.0",
+    "@testing-library/user-event": "^14.4.3",
+    "eslint": "8.35.0",
+    "eslint-config-next": "13.2.3",
+    "jest-environment-jsdom": "^29.5.0",
+    "json5": "^2.2.3",
+    "json5-jest": "github:Duke242/json5-jest",
+    "json5-jest-new": "^2.0.3",
+    "next": "13.2.3",
+    "postcss-nesting": "^11.2.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}

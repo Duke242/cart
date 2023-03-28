@@ -1,0 +1,101 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component matches the snapshot 1`] = `
+<div>
+  <div
+    class="description"
+  >
+    <h1>
+      SHOP
+    </h1>
+  </div>
+  <ul>
+    <li>
+      Monitor
+       ($
+      1000.00
+      )
+      <button>
+        🛒
+      </button>
+    </li>
+    <li>
+      Keyboard
+       ($
+      50.00
+      )
+      <button>
+        🛒
+      </button>
+    </li>
+    <li>
+      Mouse
+       ($
+      20.00
+      )
+      <button>
+        🛒
+      </button>
+    </li>
+    <li>
+      Storage
+       ($
+      60.00
+      )
+      <button>
+        🛒
+      </button>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`App component renders magnificent monkeys 1`] = `
+<div>
+  <div
+    class="description"
+  >
+    <h1>
+      SHOP
+    </h1>
+  </div>
+  <ul>
+    <li>
+      Monitor
+       ($
+      1000.00
+      )
+      <button>
+        🛒
+      </button>
+    </li>
+    <li>
+      Keyboard
+       ($
+      50.00
+      )
+      <button>
+        🛒
+      </button>
+    </li>
+    <li>
+      Mouse
+       ($
+      20.00
+      )
+      <button>
+        🛒
+      </button>
+    </li>
+    <li>
+      Storage
+       ($
+      60.00
+      )
+      <button>
+        🛒
+      </button>
+    </li>
+  </ul>
+</div>
+`;

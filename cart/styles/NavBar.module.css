@@ -1,0 +1,17 @@
+#nav {
+    display: flex; 
+    align-items: center;
+    & ul {
+        display: flex;
+        list-style: none;
+        & a {
+            padding: 0.5rem;
+            &:hover {
+                background-color: red;
+            }
+        }
+    }
+    & > div {
+        margin-left: auto;
+    }
+}
